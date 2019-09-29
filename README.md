@@ -2,9 +2,8 @@
 A simplistic 3D Pong created using Unity3D (2019.2.0f1)
 This is my first somewhat complete 3D program to this date!
 
-#### Resources:
-* https://lightshaderdevlog.wordpress.com/2016/08/10/how-to-make-a-simple-space-skybox-with-sun-in-unity/
-* http://devassets.com/assets/general-textures/
+#### Download (Windows Only):
+https://github.com/jeromewagener/3DPong/releases/download/1.0-Beta/3D.Pong.1.0.beta.zip
 
 #### Features:
 * Fancy rotating live action menu
@@ -25,3 +24,7 @@ This is my first somewhat complete 3D program to this date!
 
 **Splitscreen**
 ![alt text](https://github.com/jeromewagener/3DPong/raw/master/Screenshots/splitscreen.png "Splitscreen")
+
+#### Resources:
+* https://lightshaderdevlog.wordpress.com/2016/08/10/how-to-make-a-simple-space-skybox-with-sun-in-unity/
+* http://devassets.com/assets/general-textures/
