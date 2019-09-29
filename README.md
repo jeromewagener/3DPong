@@ -19,4 +19,4 @@ A simplistic 3D Pong created using Unity3D (2019.2.0f1)
 ![alt text](https://github.com/jeromewagener/3DPong/raw/master/Screenshots/singleplayer.png "SinglePlayer")
 
 ### Splitscreen
-![alt text](https://github.com/jeromewagener/3DPong/raw/master/Screenshots/Splitscreen.png "Splitscreen")
+![alt text](https://github.com/jeromewagener/3DPong/raw/master/Screenshots/splitscreen.png "Splitscreen")
